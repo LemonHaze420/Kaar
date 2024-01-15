@@ -1,0 +1,9 @@
+*.max filter=lfs diff=lfs merge=lfs -text
+*.Y3D filter=lfs diff=lfs merge=lfs -text
+*.WAV filter=lfs diff=lfs merge=lfs -text
+*.YPL filter=lfs diff=lfs merge=lfs -text
+*.YBM filter=lfs diff=lfs merge=lfs -text
+*.DLL filter=lfs diff=lfs merge=lfs -text
+*.OBJ filter=lfs diff=lfs merge=lfs -text
+*.PDB filter=lfs diff=lfs merge=lfs -text
+*.idb filter=lfs diff=lfs merge=lfs -text
