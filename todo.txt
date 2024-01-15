@@ -1,0 +1,64 @@
+TODO:
+
+A virer les inits de mesh au draw
+
+
+
+
+
+
+
+
+
+BUG TODO:
+	si pas de:
+		cpAnMgrObj->SetCurrentAnimation(0,0);
+	poscamera=posworld
+
+
+KERNEL TODO:
+	cpFiCtx en cpFiCtx_m global
+	CPt constructeur avec param manquant
+	CVector constructeur avec param manquant
+	dans tous les headers inthea faire un include des classes nécessaires au bon fnt ex:crswin.h dans meshdrv.h
+
+MESHDRV TODO:
+	cpRepTrans_m->SetRot(&cRotVec_m); avant un invalidate et un evaluate empeche de planter sur la gestion d'arbre , vous avez dit cosmik?
+	BESOIN URGENT: fn renvoyant une liste de ptrs sur les textures d'un mesh puis un create texture associé
+
+
+INPUTDRV TODO:
+	cpKbd->GetKeyState retour param manquant trop lourd
+
+GFXDRV TODO:
+	a tej createlight, rajouter constructeur rigolo
+T_RESULT CMyCamera::SetFustrum(T_3DVALUE tFrontPlane,T_3DVALUE tBackPlane,T_3DVALUE tFov)
+{
+#ifdef _CHECKARG_
+	// Vérifier le range
+	if (tFrontPlane<=0 || tBackPlane<=0 || tBackPlane<=================tFrontPlane || tFov<=0)
+
+FRAMEDRV:
+	/!\ releasebitmap
+	Create que certaines textures
+
+
+
+
+
+
+SON TODO:
+	Device son virtuelle
+	Global focus
+
+GAME DESIGN:
+	4x4 cases par texture 64x64 pixel
+	4x4 textures par bloc ou 16*16 cases par bloc  
+	4x4 bloc par mapzone ou 16*16 textures par mapzone ou 64*64 cases par mapzone 
+
+
+
+
+
+
+

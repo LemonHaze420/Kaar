@@ -1,0 +1,19 @@
+// ---------------------------------------------------------------------------
+// Fichier "CURSOR.YH" Correspondant au fichier "CURSOR.YGR"
+// Généré en date du 27/1/1999 à 15:28:19
+// ---------------------------------------------------------------------------
+
+// Objets
+enum EGfxObjs_CURSOR
+{
+	E_GFXOBJS_CURSOR_CURSOR,
+};
+
+// Animations
+enum EGfxAnims_CURSOR_CURSOR
+{
+	E_GFXANIMS_CURSOR_CURSOR_PAUSE,
+	E_GFXANIMS_CURSOR_CURSOR_CLICK,
+	E_GFXANIMS_CURSOR_CURSOR_FLECHEG,
+	E_GFXANIMS_CURSOR_CURSOR_FLECHED,
+};

@@ -1,0 +1,76 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Kaar - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSP1055.TMP" with contents
+[
+/nologo /MT /W3 /Gi /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_KERNELVERSION_" /Fp"Release/Kaar.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\Dev\CrsWinCpp\Kaar\Kaar.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP1055.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP1056.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib \dev\crswincpp\crswincpp\relkernel\crswinker.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Kaar.pdb" /machine:I386 /nodefaultlib:"LIBCMTD.LIB LIBCD.LIB" /out:"Release/Kaar.exe" 
+.\Release\Cam.obj
+.\Release\CamView.obj
+.\Release\BlocItem.obj
+.\Release\BlocView.obj
+.\Release\CellView.obj
+.\Release\WorldView.obj
+.\Release\ZoneItem.obj
+.\Release\ZoneView.obj
+.\Release\Cell.obj
+.\Release\BlocInst.obj
+.\Release\LandInst.obj
+.\Release\ZoneInst.obj
+.\Release\ModelInst.obj
+.\Release\Character.obj
+.\Release\CharPos.obj
+.\Release\IAAnimal.obj
+.\Release\IABase.obj
+.\Release\IAGarde.obj
+.\Release\IAVolant.obj
+.\Release\NPChar.obj
+.\Release\PChar.obj
+.\Release\World.obj
+.\Release\Bloc.obj
+.\Release\Land.obj
+.\Release\Group.obj
+.\Release\Set.obj
+.\Release\Zone.obj
+.\Release\crsprha.obj
+.\Release\Model.obj
+.\Release\Path.obj
+.\Release\Univers.obj
+.\Release\Game.obj
+.\Release\Messager.obj
+.\Release\Player.obj
+.\Release\DrvMgr.obj
+.\Release\System.obj
+.\Release\IntChar.obj
+.\Release\Interface.obj
+.\Release\Cursor.obj
+.\Release\Render.obj
+.\Release\Screen.obj
+.\Release\Sound.obj
+.\Release\Kaar.obj
+.\Release\SFX.obj
+.\Release\CrsWin.res
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP1056.TMP"
+<h3>Output Window</h3>
+Compiling...
+Kaar.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Kaar.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

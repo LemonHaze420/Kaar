@@ -1,0 +1,29 @@
+		Character 
+		{
+			Model 2
+			Type NPC
+			Name RAAGAS_0
+			Home 1,2 2,0 8,8
+			Path 0,1,1,1
+		}
+		Character 
+		{
+			Model 2
+			Type PC
+			Name SKULL
+			Home 1,2 2,0 8,8
+		}
+		Character 
+		{
+			Model 3
+			Type PC
+			Name BADAR_FO
+			Home 1,2 1,0 8,8
+		}
+		Character 
+		{
+			Model 1
+			Type PC
+			Name UERG_DEBIL
+			Home 0,0 0,0 0,0
+		}
