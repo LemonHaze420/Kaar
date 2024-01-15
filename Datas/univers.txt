@@ -1,0 +1,936 @@
+Univers
+{
+
+	0 Group DRC
+	{
+		000 Bloc BDRC_000
+		001 Bloc BDRC_001
+		002 Bloc BDRC_002
+		003 Bloc BDRC_003
+		004 Bloc BDRC_004
+		005 Bloc BDRC_005
+		006 Bloc BDRC_006
+		007 Bloc BDRC_007
+		008 Bloc BDRC_008
+		009 Bloc BDRC_009
+		010 Bloc BDRC_010
+		011 Bloc BDRC_011
+		012 Bloc BDRC_012
+		013 Bloc BDRC_013
+		014 Bloc BDRC_014
+		015 Bloc BDRC_015
+		016 Bloc BDRC_016
+		017 Bloc BDRC_017
+		018 Bloc BDRC_018
+		019 Bloc BDRC_019
+		020 Bloc BDRC_020
+		021 Bloc BDRC_021
+		022 Bloc BDRC_022
+		023 Bloc BDRC_023
+		024 Bloc BDRC_024
+		025 Bloc BDRC_025
+		026 Bloc BDRC_026
+		027 Bloc BDRC_027
+		028 Bloc BDRC_028
+		029 Bloc BDRC_029
+		030 Bloc BDRC_030
+		031 Bloc BDRC_031
+		032 Bloc BDRC_032
+		033 Bloc BDRC_033
+		034 Bloc BDRC_034
+		035 Bloc BDRC_035
+		036 Bloc BDRC_036
+		037 Bloc BDRC_037
+		038 Bloc BDRC_038
+		039 Bloc BDRC_039
+		040 Bloc BDRC_040
+		041 Bloc BDRC_041
+		042 Bloc BDRC_042
+		043 Bloc BDRC_043
+		044 Bloc BDRC_044
+		045 Bloc BDRC_045
+		046 Bloc BDRC_046
+		047 Bloc BDRC_047
+		048 Bloc BDRC_048
+		049 Bloc BDRC_049
+		050 Bloc BDRC_050
+		051 Bloc BDRC_051
+		052 Bloc BDRC_052
+		053 Bloc BDRC_053
+		054 Bloc BDRC_054
+		055 Bloc BDRC_055
+		056 Bloc BDRC_056
+		057 Bloc BDRC_057
+		058 Bloc BDRC_058
+		059 Bloc BDRC_059
+		060 Bloc BDRC_060
+		061 Bloc BDRC_061
+		062 Bloc BDRC_062
+		063 Bloc BDRC_063
+
+		000 Land ODRC_000
+		001 Land ODRC_001
+		002 Land ODRC_002
+		003 Land ODRC_003
+		004 Land ODRC_004
+		005 Land ODRC_005
+		006 Land ODRC_006
+		007 Land ODRC_007
+		008 Land ODRC_008
+		009 Land ODRC_009
+		010 Land ODRC_010
+		011 Land ODRC_011
+		012 Land ODRC_012
+		013 Land ODRC_013
+		014 Land ODRC_014
+		015 Land ODRC_015
+		016 Land ODRC_016
+		017 Land ODRC_017
+		018 Land ODRC_018
+		019 Land ODRC_019
+		020 Land ODRC_020
+		021 Land ODRC_021
+		
+		
+
+	}
+
+	1 Group DRA
+	{
+		000 Bloc BDRA_000
+		001 Bloc BDRA_001
+		002 Bloc BDRA_002
+		003 Bloc BDRA_003
+		004 Bloc BDRA_004
+		005 Bloc BDRA_005
+		006 Bloc BDRA_006
+		007 Bloc BDRA_007
+		008 Bloc BDRA_008
+		009 Bloc BDRA_009
+		010 Bloc BDRA_010
+		011 Bloc BDRA_011
+		012 Bloc BDRA_012
+		013 Bloc BDRA_013
+		014 Bloc BDRA_014
+		015 Bloc BDRA_015
+		016 Bloc BDRA_016
+		017 Bloc BDRA_017
+		018 Bloc BDRA_018
+		019 Bloc BDRA_019
+		020 Bloc BDRA_020
+		021 Bloc BDRA_021
+		022 Bloc BDRA_022
+		023 Bloc BDRA_023
+		024 Bloc BDRA_024
+		025 Bloc BDRA_025
+		026 Bloc BDRA_026
+		027 Bloc BDRA_027
+		028 Bloc BDRA_028
+		029 Bloc BDRA_029
+		030 Bloc BDRA_030
+		031 Bloc BDRA_031
+		032 Bloc BDRA_032
+		033 Bloc BDRA_033
+		034 Bloc BDRA_034
+		035 Bloc BDRA_035
+		036 Bloc BDRA_036
+		037 Bloc BDRA_037
+		038 Bloc BDRA_038
+		039 Bloc BDRA_039
+		040 Bloc BDRA_040
+		041 Bloc BDRA_041
+
+		000 Land ODRA_000
+		001 Land ODRA_001
+		002 Land ODRA_002
+		003 Land ODRA_003
+		004 Land ODRA_004
+		005 Land ODRA_005
+		006 Land ODRA_006
+		007 Land ODRA_007
+		008 Land ODRA_008
+		009 Land ODRA_009
+		010 Land ODRA_010
+		011 Land ODRA_011
+		012 Land ODRA_012
+		013 Land ODRA_013
+		014 Land ODRA_014
+		015 Land ODRA_015
+		016 Land ODRA_016
+		017 Land ODRA_017
+		018 Land ODRA_018
+		019 Land ODRA_019
+		020 Land ODRA_020
+		021 Land ODRA_021
+		022 Land ODRA_022
+		023 Land ODRA_023
+		024 Land ODRA_024
+		025 Land ODRA_025
+		026 Land ODRA_026
+		027 Land ODRA_027
+		028 Land ODRA_028
+
+	}
+
+	2 Group DRB
+	{
+		000 Bloc BDRB_000
+		001 Bloc BDRB_001
+		002 Bloc BDRB_002
+		003 Bloc BDRB_003
+		004 Bloc BDRB_004
+		005 Bloc BDRB_005
+		006 Bloc BDRB_006
+		007 Bloc BDRB_007
+		008 Bloc BDRB_008
+		009 Bloc BDRB_009
+		010 Bloc BDRB_010
+		011 Bloc BDRB_011
+		012 Bloc BDRB_012
+		013 Bloc BDRB_013
+		014 Bloc BDRB_014
+		015 Bloc BDRB_015
+
+	}
+
+	0 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤011 0  ¤022 0  ¤018 0  ¤005 0
+		¤020 0  ¤029 0  ¤026 0  ¤014 0
+		¤016 0  ¤024 0  ¤030 0  ¤019 0
+		¤001 0  ¤012 0  ¤021 0  ¤017 0
+
+		A Set
+		{
+			¤000 0,0,0
+			¤001 1,1,0
+			¤002 3,3,0
+			¤003 15,15,0
+		}
+		B Set
+		{
+			¤001 2,2,0
+			¤002 7,5,0
+			¤003 9,0,0
+			¤004 15,15,0
+			¤005 2,6,0
+		}
+	}
+
+	1 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤011 0  ¤022 0  ¤018 0  ¤005 0
+		¤020 0  ¤029 0  ¤026 0  ¤014 0
+		¤016 0  ¤024 0  ¤030 0  ¤019 0
+		¤001 0  ¤012 0  ¤021 0  ¤017 0
+	
+	}
+
+	2 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤011 0  ¤018 0  ¤003 0  ¤005 0
+		¤020 0  ¤019 0  ¤004 0  ¤010 0
+		¤016 0  ¤013 0  ¤015 0  ¤014 0
+		¤001 0  ¤006 0  ¤012 0  ¤017 0
+
+	}
+
+	3 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤011 0  ¤018 0  ¤003 0  ¤005 0
+		¤016 0  ¤013 0  ¤008 0  ¤007 0
+		¤002 0  ¤015 0  ¤022 0  ¤014 0
+		¤001 0  ¤012 0  ¤021 0  ¤017 0
+
+	}
+
+	4 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤009 0  ¤011 0  ¤022 0  ¤018 0
+		¤015 0  ¤025 0  ¤029 0  ¤019 0
+		¤016 0  ¤024 0  ¤023 0  ¤013 0
+		¤001 0  ¤012 0  ¤017 0  ¤008 0
+
+	}
+
+	5 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤041 0  ¤033 0  ¤042 0  ¤052 0
+		¤031 0  ¤045 0  ¤043 0  ¤007 0
+		¤044 0  ¤043 0  ¤015 0  ¤014 0
+		¤054 0  ¤006 0  ¤012 0  ¤017 0
+
+	}
+
+	6 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤011 0  ¤018 0  ¤041 0  ¤042 0
+		¤016 0  ¤013 0  ¤032 0  ¤035 0
+		¤002 0  ¤041 0  ¤046 0  ¤036 0
+		¤053 0  ¤044 0  ¤037 0  ¤043 0
+
+	}
+
+	7 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤011 0  ¤018 0  ¤003 0  ¤052 0
+		¤016 0  ¤017 0  ¤054 0  ¤010 0
+		¤041 0  ¤042 0  ¤015 0  ¤018 0
+		¤044 0  ¤043 0  ¤012 0  ¤013 0
+
+	}
+
+	8 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤040 2  ¤045 0  ¤043 0	¤007 0
+		¤037 0  ¤043 0  ¤008 0	¤009 0
+		¤015 0  ¤014 0  ¤015 0	¤014 0
+		¤012 0  ¤017 0  ¤012 0	¤017 0
+
+	}
+
+	9 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		¤001 0  ¤010 0  ¤014 0  §005 0
+		¤004 0  ¤007 -1 ¤016 0  ¤006 0
+		¤005 0  ¤009 0  ¤023 -1 ¤008 -1
+		§007 0  ¤002 0  ¤024 -1 ¤015 0
+
+	}
+
+	10 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		§011 0  §018 0  §003 0  §005 0
+		§016 0  §013 0  ¤001 0  ¤014 0
+		§002 0  ¤001 0  ¤017 0  ¤019 0
+		§001 0  ¤005 0  ¤012 0  ¤013 0
+
+
+	}
+
+	11 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		¤001 0  ¤006 0  ¤010 0  ¤014 0
+		¤005 0  ¤020 0  ¤031 -1 ¤019 0
+		§002 0  ¤004 0  ¤025 -1	¤018 0 
+		§001 0  ¤005 0  ¤012 0	¤013 0
+
+	}
+
+	12 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		§009 0  ¤004 0  ¤032 0  ¤011 0
+		§007 0  ¤005 0  ¤022 0	¤001 0
+		§015 0  §022 0  §014 0	¤004 0 
+		§012 0  §021 0  §017 0	¤005 0
+
+
+	}
+	
+	13 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		¤013 0  ¤001 0  ¤014 0	¤039 0
+		¤006 0  ¤017 0  ¤019 0	¤034 0
+		¤007 -1 ¤030 0  ¤013 0	§001 0 
+		¤012 0  ¤013 0  §006 0	§007 0 
+	
+	
+	}
+
+	14 Zone
+	{
+
+		¤ Group 1
+		§ Group 0
+ 
+		¤021 0  ¤014 0  §011 0  §018 0
+		¤023 -1 ¤029 0  §016 0  §013 0
+		¤030 0  ¤013 0  ¤038 0  ¤037 0
+		¤018 0  §009 0  ¤034 0  ¤036 0
+
+	}
+
+	15 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		¤004 0  ¤024 -1 §008 -1 ¤018 0
+		¤005 0  ¤009 0  ¤033 -1 ¤018 0
+		¤014 0  ¤003 0  ¤032 0  ¤013 0
+		¤029 0  ¤005 0  ¤022 0  §002 0
+
+
+	}
+
+	16 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		¤001 0  ¤017 0  ¤026 -1 ¤018 0
+		¤004 0  ¤024 -1 ¤015 0  ¤013 0
+		¤003 0  ¤025 -1 ¤021 0  ¤006 0
+		¤005 0  ¤009 0  ¤023 -1 ¤008 -1
+		
+			
+	}
+
+	17 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		¤001 0  ¤014 0  §015 0  §014  0
+		¤017 0  ¤019 0  §012 0  §017  0
+		¤028 -1 ¤021 0  ¤006 0  ¤014  0
+		¤020 0  ¤023 -1 ¤008 -1 ¤029  0
+
+	}
+
+	18 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		§002 0  ¤002 0  ¤024 -1 §010 -1
+		§009 0  ¤005 0  ¤012 0  ¤020 0
+		¤001 0  ¤006 0  ¤010 0  ¤017 0
+		¤005 0  ¤027 0  ¤031 -1 ¤028 -1
+
+	}
+
+	19 Zone
+	{
+		¤ Group 0
+		§ Group 2
+
+		¤060 3  §000 0  §002 0  ¤005  0
+		¤056 3  §001 0  §003 0  ¤007  0
+		¤062 3  §000 0  §002 0  ¤010  0
+		¤056 3  §004 0  §005 0  ¤008  0
+		
+	}
+
+	20 Zone
+	{
+		¤ Group 0
+		§ Group 2
+
+		§006 0  §012 0  §013 0  ¤005  0
+		§007 0  §014 0  §015 0  ¤007  0
+		¤002 0  ¤015 0  ¤022 0  ¤014  0
+		¤001 0  ¤012 0  ¤021 0  ¤017  0
+
+	}
+
+	21 Zone
+	{
+		¤ Group 0
+		§ Group 2
+
+		§008 0  §006 0  §010 0  §008  0
+		§009 0  §007 0  §011 0  §009  0
+		¤002 0  ¤054 0  ¤015 0  ¤018  0
+		¤001 0  ¤006 0  ¤012 0  ¤013  0
+		
+	}
+
+	22 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		 ¤001 0  ¤003 0  ¤005 0	¤061 0
+		 ¤002 0  ¤008 0  ¤007 0 ¤059 0
+		 ¤054 0  ¤055 0  ¤058 0	¤061 0
+		 ¤063 0  ¤056 0  ¤057 0	¤063 0
+
+	}
+
+	23 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		 ¤001 0  ¤003 0  ¤005 0	¤054 0
+		 ¤002 0  ¤008 0  ¤007 0 ¤010 0
+		 ¤054 0  ¤059 0  ¤063 0	¤058 0
+		 ¤063 0  ¤056 0  ¤049 0	¤057 0
+
+		
+	}
+
+	24 Zone
+	{
+		¤ Group 0
+		§ Group 2
+
+		§006 0  §008 0  §010 0  §006  0
+		§007 0  §009 0  §011 0  §007  0
+		¤002 0  ¤054 0  ¤015 0  ¤018  0
+		¤001 0  ¤006 0  ¤012 0  ¤013  0
+		
+	}
+
+	25 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		§009 0  §053 0  §003 0  §052 0
+		¤035 0  ¤037 0  §054 0  §010 0
+		¤034 0  ¤036 0  §015 0  §018 0
+		§001 0  §002 0  §012 0  §013 0
+
+
+	}
+
+	26 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		¤037 0  §006 0  §003 0  §005 0
+		¤036 0  §007 0  ¤001 0  ¤014 0
+		§001 0  ¤001 0  ¤017 0  ¤019 0
+		§002 0  ¤005 0  ¤012 0  ¤013 0
+
+		
+	}
+
+	27 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		§011 0  §018 0  §003 0  §005 0
+		§020 0  §019 0  §004 0  §010 0
+		§016 0  §013 0  §015 0  §014 0
+		¤010 0  ¤006 0  ¤010 0  ¤006 0
+
+	}
+
+	28 Zone
+	{
+		¤ Group 1
+		§ Group 0
+
+		¤020 0  §018 -1  §003 -1  §005 -1
+		¤005 0  ¤012 0  ¤012 0  ¤012 0
+		§016 0  §013 0  §015 0  §014 0
+		§001 0  §006 0  §012 0  §017 0
+
+	}
+
+	29 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤057 2  ¤056 2  ¤035 0	¤031 0
+		¤062 2  ¤040 2  ¤036 0	¤032 0
+		¤056 2  ¤049 2  ¤035 0	¤044 0
+		¤050 2  ¤039 2  ¤036 0	¤001 0
+
+	}
+
+	30 Zone
+	{
+
+		¤ Group 0
+		§ NoGroup
+
+		¤039 2  ¤036 0  ¤036 0	¤053 0
+		¤045 0  ¤037 0  ¤043 0	¤010 0
+		¤043 0  ¤015 0  ¤022 0	¤018 0
+		¤052 0  ¤012 0  ¤021 0	¤013 0
+
+	}
+
+	31 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		 ¤001 0  ¤003 0  ¤005 0	¤054 0
+		 ¤002 0  ¤008 0  ¤007 0 ¤059 0
+		 ¤054 0  ¤055 0  ¤058 0	¤061 0
+		 ¤059 0  ¤056 0  ¤057 0	¤063 0
+
+	}
+
+	32 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		 ¤001 0  ¤003 0  ¤005 0	¤054 0
+		 ¤011 0  ¤018 0  ¤007 0 ¤059 0
+		 ¤020 0  ¤026 0  ¤014 0	¤061 0
+		 ¤016 0  ¤021 0  ¤013 0	¤055 0
+
+	}
+	
+	33 Zone
+	{
+		¤ Group 0
+		§ Group 2
+
+		¤062 3  §000 0  §002 0  ¤005  0
+		¤056 3  §001 0  §003 0  ¤007  0
+		¤062 3  §000 0  §002 0  ¤010  0
+		¤056 3  §004 0  §005 0  ¤008  0
+		
+	}
+
+	34 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤059 2  ¤058 2  ¤055 2	¤035 0
+		¤060 2  ¤057 2  ¤056 2	¤036 0
+		¤061 2  ¤062 2  ¤040 2	¤035 0
+		¤063 2  ¤056 2  ¤051 2	¤036 0
+	}
+
+	35 Zone
+	{
+		¤ Group 0
+		§ NoGroup
+
+		¤039 2  ¤045 0  ¤037 0	¤043 0
+		¤037 0  ¤043 0  ¤006 0	¤015 0
+		¤033 0  ¤042 0  ¤052 0	¤016 0
+		¤049 2  ¤035 0  ¤041 0	¤042 0
+
+	}
+
+	0 Model
+	{
+		Race Nomareg
+		Icon SIGL-NOM
+		Mesh RAAGAS
+		Texture RAAGAS
+		Movie MOVRAAG
+		IA None
+		Altitude 0
+		Life 40
+		Tireness 100
+	}
+	1 Model
+	{
+		Race Uerg
+		Icon SIGL-UERG
+		Mesh UERG
+		Texture UERG
+		Movie MOVUERG
+		IA None
+		Altitude 0
+		Life 40
+		Tireness 100
+	}
+	2 Model
+	{
+		Race Nomareg
+		Icon SIGL-NOM
+		Mesh FOURRAAG
+		Texture SAURFOURRAAG
+		Movie MOVRAAG
+		IA None
+		Altitude 2
+		Life 60
+		Tireness 100
+	}
+	3 Model
+	{
+		Race Uerg
+		Icon SIGL-UERG
+		Mesh BARIVE
+		Texture BARIVE
+		Movie MOVUERG
+		IA None
+		Altitude 1
+		Life 60
+		Tireness 300
+	}
+	4 Model
+	{
+		Race Animal
+		Icon SIGL-HUM
+		Mesh STRACMITE
+		Texture STRACMITE
+		Movie MOVUERG
+		IA Animal
+		Altitude 0
+		Life 5
+		Tireness 5
+	}
+	5 Model
+	{
+		Race Animal
+		Icon SIGL-NOM
+		Mesh SAUREILLE
+		Texture SAURFOURRAAG
+		Movie MOVRAAG
+		IA Volant
+		Altitude 2
+		Life 40
+		Tireness 50
+	}
+	6 Model
+	{
+		Race Nomareg
+		Icon SIGL-NOM
+		Mesh RAAGGARD
+		Texture RAAGGARD
+		Movie MOVRAAG
+		IA Garde
+		Altitude 0
+		Life 25
+		Tireness 500
+	}
+	7 Model
+	{
+		Race Uerg
+		Icon SIGL-UERG
+		Mesh UERGP1
+		Texture UERG
+		Movie MOVUERG
+		IA None
+		Altitude 0
+		Life 20
+		Tireness 5
+	}
+	8 Model
+	{
+		Race Uerg
+		Icon SIGL-UERG
+		Mesh UERGP2
+		Texture UERG
+		Movie MOVUERG
+		IA None
+		Altitude 0
+		Life 20
+		Tireness 5
+	}
+	9 Model
+	{
+		Race Uerg
+		Icon SIGL-UERG
+		Mesh UERGP3
+		Texture UERG
+		Movie MOVUERG
+		IA None
+		Altitude 0
+		Life 20
+		Tireness 5
+	}
+
+	0 Path
+	{
+		-6,6
+		-6,-6
+		6,-6
+		6,6
+	}
+	1 Path
+	{
+		0,0
+		0,0
+	}	
+	2 Path
+	{
+		-4,6
+		-6,-4
+		4,-6
+		6,4
+	}
+	3 Path
+	{
+		-6,6
+		-7,7
+		-7,7
+		-6,-6
+		-7,-7
+		-7,-7
+		6,-6
+		7,-7
+		7,-7
+		6,6
+		7,7
+		7,7
+	}
+	
+	0 World 10*13
+	{
+		01 3 03 3 32 3 19 0 03 0 04 0 03 0 04 0  03 0  04 0
+		23 3 23 3 22 3 33 0 01 0 02 0 01 0 02 0  01 0  02 0
+		24 0 24 0 21 0 20 0 03 0 04 0 03 0 04 0  03 0  04 0
+		01 0 02 0 01 0 10 0 01 0 02 0 01 0 02 0  01 0  02 0
+		03 0 04 0 03 0 09 0 17 0 04 0 03 0 04 0  03 0  04 0
+		01 0 02 0 01 0 16 0 15 0 02 0 01 0 02 0  01 0  02 0
+		03 0 04 0 10 0 18 0 14 0 25 0 03 0 04 0  03 0  04 0
+		01 0 02 0 01 0 12 0 13 0 26 0 01 0 02 0  01 0  02 0
+		03 0 04 0 03 0 04 0 10 0 04 0 03 0 04 0  03 0  04 0	 
+		 01 0  02 0  01 0  02 0  01 0  02 0  01 0  02 0  01 0  02 0
+		 03 0  04 0  03 0  04 0  03 0  04 0  03 0  04 0  03 0  04 0
+		 01 0  02 0  01 0  02 0  01 0  02 0  01 0  02 0  01 0  02 0
+		 03 0  04 0  03 0  04 0  03 0  04 0  03 0  04 0  03 0  04 0  
+	 	  
+
+		Character 
+		{
+			Model 5
+			Type NPC
+			Name SAUREILLE
+			Home 1,1 2,2 0,0
+		}
+		Character 
+		{
+			Model 5
+			Type NPC
+			Name SAUREILLE
+			Home 1,1 2,2 4,4
+		}
+		Character 
+		{
+			Model 5
+			Type NPC
+			Name SAUREILLE
+			Home 1,1 2,2 4,0
+		}
+		Character 
+		{
+			Model 5
+			Type NPC
+			Name SAUREILLE
+			Home 1,1 2,2 0,4
+		}
+		Character 
+		{
+			Model 4
+			Type NPC
+			Name STRACMITE
+			Home 1,2 2,0 8,8
+			Path 2,3
+		}
+		Character 
+		{
+			Model 6
+			Type NPC
+			Name RAAGARD
+			Home 1,1 0,0 8,8
+			Path 0,1,2,3
+		}
+		Character 
+		{
+			Model 7
+			Type NPC
+			Name UERGP1
+			Home 2,3 0,0 8,8
+			Path 0,1,2,3
+		}
+		Character 
+		{
+			Model 8
+			Type NPC
+			Name UERGP2
+			Home 2,3 1,0 8,8
+			Path 0,1,2,3
+		}
+		Character 
+		{
+			Model 9
+			Type NPC
+			Name UERGP3
+			Home 2,3 2,0 8,8
+			Path 0,1,2,3
+		}
+		Character 
+		{
+			Model 0
+			Type PC
+			Name SKULL
+			Home 1,3 0,0 8,0
+		}
+		Character 
+		{
+			Model 1
+			Type PC
+			Name BADAR_FO
+			Home 1,3 0,0 8,4
+		}
+		Character 
+		{
+			Model 2
+			Type PC
+			Name MINOEF
+			Home 1,3 0,0 8,8
+		}
+		Character 
+		{
+			Model 3
+			Type PC
+			Name VERAPION
+			Home 1,3 0,0 8,12
+		}
+		Character 
+		{
+			Model 4
+			Type PC
+			Name RAAGAS_NAZ
+			Home 1,3 0,1 8,8
+		}
+		Character 
+		{
+			Model 5
+			Type PC
+			Name RAAGAS_NAZ
+			Home 1,3 0,2 8,8
+		}	
+	}
+}
